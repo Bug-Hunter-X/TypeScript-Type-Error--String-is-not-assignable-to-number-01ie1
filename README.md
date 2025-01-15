@@ -1,0 +1,1 @@
+This example demonstrates a common TypeScript type error: assigning a string to a number variable. The `add` function expects two numbers but receives a string and a number as arguments.  The solution shows how to use type guards or type assertions to safely handle this.
